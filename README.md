@@ -1,4 +1,17 @@
-<h1 align="center">Hello Kezypie Disini :3</h1>
+<h1 align="center">Hi 👋, I'm Krisna Rafif Daffa Amrullah</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+- 🔭 I’m currently student on **Semen Indonesia International University**
+
+- 🌱 I’m currently learning **Java,Php,C+,C,HTML,js,CSS,Python,Golang,Kotlin**
+
+- 👯 My current **major is computer science**
+
+- 🤝 I’m looking for help with **Copilot or Github Community For help my project**
+
+- 📫 How to reach me **wwwkrisna502@gmail.com**
+
+- ⚡ Fun fact **I like Reading a manga everyday**
 
 ###
 
