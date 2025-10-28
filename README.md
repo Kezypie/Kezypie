@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krisna Rafif Daffa Amrullah</h1>
+<h1 align="center">Coding - revisi -  turu - repeat</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🔭 I’m currently student on **Semen Indonesia International University**
